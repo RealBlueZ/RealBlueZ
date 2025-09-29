@@ -13,4 +13,4 @@ Anyways, i hope that with this GitHub page, i can publish my own project or even
 
 Thats all for now.
 
-![Clapping](https://tenor.com/fnZWjDxUmFF.gif)
+![Clapping](https://tenor.com/view/uma-musume-clapping-ゴールドシップ-gold-ship-ウマ娘-gif-4383783875449894257)
