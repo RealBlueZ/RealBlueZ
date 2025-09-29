@@ -9,6 +9,8 @@ I'm actually just starting out in programming for about 1 Year, and i may not be
 I do my coding on Windows & Linux. Arch was my **FIRST** and **ONLY** Linux experience i had so far 😂.
 But i use a Distro called Endeavour OS 🌔.
 
-Any way, i hope with this GitHub page, i can publish my own project or even contribute to other people while also leveling up my programming skills and learn bunch of stuff in programming.
+Anyways, i hope that with this GitHub page, i can publish my own project or even contribute to other people while also leveling up my programming skills and learn bunch of stuff in programming.
 
 Thats all for now.
+
+https://tenor.com/fnZWjDxUmFF.gif
