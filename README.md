@@ -1,6 +1,6 @@
 
 # Welcome 👋 To RealBlueZ Profile 🥳
--> the name, Jojo.
+-> the names, Jojo or Joe.
 
 ## **Student Programmer 👨‍💻**
 
